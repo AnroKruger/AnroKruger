@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnroKruger
 - 👀 I’m a Pentester and Programer
 - 🌱 I’m currently Studing for my masters in Cyber Security
-- 📫 How to reach me email : ddosroot@protonmail.com
+- 📫 How to reach me email : anro.it@protonmail.com
 - 📫 You can find my webiste at : anrokruger.github.io
 
 <!---
